@@ -16,9 +16,9 @@
 Генерация осуществляется с помощью нейронной сети Kandinsky 3.0 – сервиса для создания изображений на основе искусственного интеллекта,
 разработанного компанией «Сбер».
 
-<img width="329" alt="Снимок экрана 2024-03-24 в 22 16 37" src="https://github.com/katusipusechka/text2image/assets/164676858/d9f62cc0-8e15-415c-ad12-a724600c00df">
-<img width="329" alt="Снимок экрана 2024-03-24 в 22 19 27" src="https://github.com/katusipusechka/text2image/assets/164676858/ddd3927c-f2ed-403f-b2b6-4b30d4c441c3">
-<img width="329" alt="Снимок экрана 2024-03-24 в 22 23 46" src="https://github.com/katusipusechka/text2image/assets/164676858/e9388a27-9430-4492-9f2a-8e5e4badd884">
+<img width="329" alt="Снимок экрана 2024-03-24 в 22 16 37" src="https://github.com/katusipusechka/text2image/assets/164676858/3dedef0a-f2ad-4d05-9e89-dd335a6a74ce">
+<img width="329" alt="Снимок экрана 2024-03-24 в 22 19 27" src="https://github.com/katusipusechka/text2image/assets/164676858/06023e65-12e5-4f23-a48f-3203f394590f">
+<img width="329" alt="Снимок экрана 2024-03-24 в 22 23 46" src="https://github.com/katusipusechka/text2image/assets/164676858/3ef690d7-5210-467c-9739-3db36ab1bc01">
 
 ## Для разработчиков
 ### Зависимости
